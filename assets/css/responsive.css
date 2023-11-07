@@ -1,0 +1,257 @@
+@media all and (max-width:767px) {
+    .home-3 .hero-single::after {
+        width: 350px;
+        height: 350px;
+        bottom: 30px;
+        right: 10px
+    }
+
+    .navbar {
+        background: none;
+
+    }
+
+    .mobile-menu-right {
+        margin-top: 40px;
+    }
+
+    .navbar-toggler-mobile-icon {
+        color: #000;
+        margin-top: 25px;
+    }
+
+    .hero-single .hero-content {
+        text-align: center;
+    }
+
+    .hero-single .hero-content .hero-sub-title {
+        font-size: 12px;
+    }
+
+    .hero-single .hero-content .hero-title {
+        font-size: 20px;
+    }
+
+    .hero-single .hero-content p {
+        font-size: 15px;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    .hero-slider {
+        margin-top: 40px;
+    }
+
+    .mobile-menu-right button i {
+        color: #000;
+    }
+
+    .fixed-top .mobile-menu-right {
+        margin-top: 0px;
+    }
+
+    .fixed-top .mobile-menu-right button {
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+
+    .fixed-top .mobile-menu-right button i {
+        color: #fff;
+    }
+
+    .about-experience {
+        top: 50px;
+        left: -11px;
+        background: #030F50;
+        padding: 5px 10px 10px 10px;
+    }
+
+    .about-left::before {
+        bottom: -15px;
+        left: -40px;
+    }
+
+    .about-left::after {
+        right: -11px;
+        border: 2px solid #030f50
+    }
+
+    .about-area {
+        padding: 15px 0;
+    }
+
+    .about-right {
+        margin-top: 35px;
+    }
+
+    .site-title-tagline {
+        font-size: 20px;
+    }
+
+    .site-title {
+        font-size: 25px;
+        margin-top: 3px;
+    }
+
+    .about-right h3 {
+        padding-top: 15px;
+    }
+
+    .about-text {
+        margin-top: 10px;
+    }
+
+    .theme-btn {
+        font-size: 10px;
+        padding: 6px 10px;
+        margin-top: 10px !important;
+    }
+
+    .feature-area {
+        margin-top: 0px;
+    }
+
+    .pd-50 {
+        padding: 25px 0;
+    }
+
+    .site-title-tagline {
+        font-size: 15px;
+    }
+
+    p {
+        margin: 0;
+        line-height: 1.5;
+        font-size: 15px;
+    }
+
+    .feature-icon {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 43px;
+    }
+
+    .feature-item .count {
+        font-size: 40px;
+    }
+
+    .recent-update h2 {
+        font-size: 25px;
+    }
+
+    .site-heading {
+        margin-bottom: 15px;
+    }
+
+    .service-title a {
+        font-size: 18x;
+        margin-top: 0px;
+    }
+
+    .service-item {
+        margin-bottom: 15px;
+        padding: 10px;
+        height: 550px;
+    }
+
+    .service-arrow {
+        margin-top: 8px;
+    }
+
+    .service-img-mobile {
+        height: 565px !important;
+    }
+
+    .counter-area .counter-box {
+        margin: 13px 0;
+    }
+
+    .counter-box {
+        gap: 20px;
+    }
+
+    .flat-icon img {
+        padding: 12px;
+        width: 60%;
+    }
+
+    .counter-box .counter {
+        font-size: 30px;
+        letter-spacing: 4px;
+    }
+
+    .counter-box .title {
+        margin-top: 10px;
+        font-size: 16px;
+        letter-spacing: 4px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    .call-content h1 {
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .call-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .call-content::before {
+        border: 2px solid #030F50;
+    }
+    .team-area{
+        padding-top: 0px;
+    }
+    .team-content{
+        border-right: 5px solid #030F50;
+        border-bottom: 5px solid #030F50;
+        border-top: 1px solid #030F50;
+        border-left: 1px solid #030F50;
+    }
+    .faq-area .accordion-item {
+        margin-bottom: 10px;
+    }
+    .faq-right {
+        margin-bottom: 20px;
+    }
+    .testimonial-single {
+        margin: 0 6px 10px;
+        height: 330px;
+    }
+    .portal1 {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .text-center1 h4{
+        font-size: 13px;
+    }
+    .footer-widget-title {
+        padding-bottom: 8px;
+        margin-bottom: 9px;
+        font-size: 20px;
+    }
+    .f-footer{
+        padding-top: 25px;
+    }
+    .footer-link {
+        padding-top: 0px;
+    }
+    .footer-widget-box {
+        margin-bottom: 10px;
+    }
+    .copyright .copyright-text {
+        text-align: center;
+    }
+    .footer-social {
+        justify-content: center;
+    }
+}
